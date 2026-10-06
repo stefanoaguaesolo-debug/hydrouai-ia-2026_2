@@ -1,0 +1,30 @@
+{
+  "global_nonoverlap": true,
+  "separation_days": 1,
+  "no_original_missing_value_used_as_reference": true,
+  "observed_boundaries_preserved": true,
+  "all_blocks_inside_one_season": true,
+  "original_values_preserved_outside_mask": true,
+  "mask_registry_consistent": true,
+  "n_gaps": 126,
+  "n_hidden_values": 2184,
+  "n_wet_flow_peak_gaps": 30,
+  "all_targeted_peaks_inside_gaps_and_above_threshold": true,
+  "max_simultaneous_artificial_gaps": 1,
+  "all_methods_filled_all_withheld_values": true,
+  "methods_preserved_available_observations": true,
+  "metrics_computed_only_on_artificial_gaps": true,
+  "historical_donors_only_from_available_observations_and_other_calendar_intervals": true,
+  "historical_method_does_not_use_imputed_donors": true,
+  "n_metric_rows_by_gap_internal": 504,
+  "n_metric_rows_by_gap_exported": 24,
+  "reported_series": [
+    "Q_Afluente"
+  ],
+  "final_dataset_preserves_all_original_observations": true,
+  "artificial_validation_gaps_restored_to_observed_values_in_final_dataset": true,
+  "final_missing_values": 0,
+  "best_method_selection": {
+    "NSE": 21
+  }
+}
