@@ -28,13 +28,29 @@ https://drive.google.com/drive/folders/1-AVoTsgVhUU178LQL9XVaF3op9auaSYr?usp=dri
 
 ##  Link das Gravações
 
+Segunda-Feira:
+
 https://drive.google.com/file/d/1xuGr5_TwRo7rb1P5VVTuUmAl74K1GzI_/view?usp=drive_link
 
 https://drive.google.com/file/d/1Pg5Z8QDEtSStPpviXDCdLBbB3iDSj9dd/view?usp=sharing
 
+Terça-Feira:
+
+https://drive.google.com/file/d/1MmIIDr2Ek6h50mqXw2TXz2pFhUOQdRF6/view?usp=drivesdk
+
+https://drive.google.com/file/d/1hM1sPrNUV-0n1Te1NUogr5QgdsDDeq2e/view?usp=drivesdk
+
+Quarta-Feira:
+
+https://drive.google.com/file/d/1xuGr5_TwRo7rb1P5VVTuUmAl74K1GzI_/view?usp=drivesdk
+
 ##  Link do Formulário de Avaliação 
 
+Inicial:
 https://forms.gle/NZpzYCzaddsqwyfx6
+
+Meio de Curso:
+https://forms.gle/npB27Ar4ovE3aw2v5
 
 ## Uso didático
 
