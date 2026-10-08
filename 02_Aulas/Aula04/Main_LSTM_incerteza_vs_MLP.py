@@ -32,7 +32,7 @@ TUNE_FRAC = 0.15               # ajuste / early stopping
 
 MAX_EPOCHS = 300
 BATCH_SIZE = 365
-LEARNING_RATE = 3e-4
+LEARNING_RATE = 3e-2
 WEIGHT_DECAY = 1e-5
 PATIENCE = 120
 MIN_DELTA = 1e-6
