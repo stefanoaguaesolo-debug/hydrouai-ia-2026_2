@@ -1,0 +1,2 @@
+T,TOP_N,Q_low_train,Q_high_train,MC_SAMPLES,Cobertura_global_intervalo,Incerteza_epistemica_media_global,Largura_media_intervalo_global,Correlacao_erro_incerteza_global
+1,6,154.834,892.7120000000002,300,0.6144278606965174,42.980217,165.95063802572346,0.7737876321419155
