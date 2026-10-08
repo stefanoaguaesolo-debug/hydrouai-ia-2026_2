@@ -1,0 +1,13 @@
+<!doctype html><html lang="pt-BR"><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Resultados do preenchimento</title><style>
+body{font:16px Arial,sans-serif;color:#173955;background:#f5f7fa;margin:0;padding:32px}
+main{max-width:1100px;margin:auto;background:white;padding:28px;border-radius:12px}
+h1{font-size:24px;margin:0 0 12px}p{line-height:1.5;color:#546574}
+.scroll{overflow-x:auto}table{border-collapse:collapse;width:100%;margin:20px 0}
+th{background:#173955;color:white;text-align:left}th,td{padding:12px;border-bottom:1px solid #dee6ed}
+td:nth-child(3),td:nth-child(4),td:nth-child(5){text-align:right;font-variant-numeric:tabular-nums}
+.best{background:#e5f3ed;font-weight:bold}small{color:#546574}</style>
+<main><h1>Comparação dos métodos de preenchimento</h1>
+<p>NSE, MAE e RMSE calculados somente nas falhas artificiais, reunindo seco e úmido.
+A linha destacada é o método escolhido para a série.</p><div class="scroll"><table><thead><tr><th>Série</th><th>Método</th><th>NSE</th><th>MAE</th><th>RMSE</th><th>Melhor</th></tr></thead><tbody><tr><td>Q_Afluente</td><td>Média global</td><td>-0.339</td><td>1208.622</td><td>1612.516</td><td></td></tr><tr><td>Q_Afluente</td><td>Interpolação linear</td><td>0.703</td><td>438.487</td><td>759.427</td><td></td></tr><tr class="best"><td>Q_Afluente</td><td>KNN</td><td>0.870</td><td>287.527</td><td>502.471</td><td>Sim</td></tr><tr><td>Q_Afluente</td><td>Média histórica do intervalo</td><td>0.177</td><td>814.685</td><td>1264.051</td><td></td></tr></tbody></table></div><small>NSE maior é melhor. MAE/RMSE menores são melhores e têm a unidade da série (mm para precipitação; m³/s para vazão). Quando todos os NSEs são indefinidos, a escolha usa o menor RMSE, conforme o critério registrado.</small></main></html>
